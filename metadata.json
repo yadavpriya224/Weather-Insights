@@ -1,0 +1,5 @@
+{
+  "name": "Weather Insights",
+  "description": "Real-time and historical weather insights using Open-Meteo API",
+  "requestFramePermissions": ["geolocation"]
+}
